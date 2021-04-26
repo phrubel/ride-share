@@ -1,0 +1,19 @@
+.menu-bar{
+    color:crimson;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    margin-right: 35px;
+    text-decoration: none;
+    margin-top: 4px;
+}
+.nav{
+    margin-left: 25px;
+}
+.login-btn{
+    color: black;
+    border: none;
+    padding: 5px 20px;
+    border-radius: 5px;   
+    font-weight: 700; 
+    background-color: coral
+}

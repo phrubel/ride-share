@@ -1,0 +1,12 @@
+.signUP-Btn{
+    padding: 5px 45px;
+    background-color:crimson;
+    color: white;
+    font-weight: 700;
+    border: none;
+    border-radius: 15px;
+}
+.SignUp-logo img{
+    width: 30px;
+    height: 30px;
+}

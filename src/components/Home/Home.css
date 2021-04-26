@@ -1,0 +1,7 @@
+.home-background{
+    background-image:linear-gradient(rgba(5, 5, 5, 0.247),rgba(0, 0, 0, 0.267)), url(https://previews.123rf.com/images/yukipon/yukipon1305/yukipon130500003/19477097-city-town-background.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+}

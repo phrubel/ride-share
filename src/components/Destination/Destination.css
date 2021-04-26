@@ -1,0 +1,13 @@
+.map{
+    
+    margin-top: 40px;
+    margin-left: 120px;
+    width: 100%;
+}
+.background{
+    background-image:linear-gradient(rgba(5, 5, 5, 0.247),rgba(0, 0, 0, 0.267)), url(https://previews.123rf.com/images/vvadyabb/vvadyabb1805/vvadyabb180500146/101455283-cityscape-with-sky-background-vector-illustration-town-design-with-main-street-and-clouds-street-roa.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+}
